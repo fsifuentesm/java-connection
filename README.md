@@ -1,6 +1,6 @@
 # The ultimate DB2 HTTP REST API
 
-Este proyecto define una interfaz http para operaciones con db2 en la empresa
+Este proyecto define una interfaz http para operaciones con db2
 
 ## Cómo desarrollar
 
